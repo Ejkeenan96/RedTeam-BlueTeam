@@ -7,9 +7,9 @@ Then, you will interpret your log data to suggest mitigation measures for each e
 
 This unit covers portions of the following domains on the Security+ exam:
 ---
-1.0 Attacks, Threats, and Vulnerabilities
-2.0 Architecture and Design
-3.0 Implementation
-4.0 Operations and Incident Response
+- 1.0 Attacks, Threats, and Vulnerabilities
+- 2.0 Architecture and Design
+- 3.0 Implementation
+- 4.0 Operations and Incident Response
 ---
-![Project Submission File](Project 2 RED TEAM Vs BLUE TEAM .pdf)
+![Project Submission File](https://github.com/Ejkeenan96/RedTeam-BlueTeam/blob/main/Project%202%20RED%20TEAM%20Vs%20BLUE%20TEAM%20.pdf)
